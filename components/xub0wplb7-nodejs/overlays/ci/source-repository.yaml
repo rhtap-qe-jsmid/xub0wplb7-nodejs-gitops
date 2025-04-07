@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xub0wplb7-nodejs-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/xub0wplb7-nodejs
